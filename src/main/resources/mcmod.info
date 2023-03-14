@@ -1,0 +1,20 @@
+[
+  {
+    "modid": "gpmb",
+    "name": "GannyPotatosMagicBook",
+    "description": "A Magic Mod That Can Bring You Countless Potatoes!!!",
+    "version": "0.0.1",
+    "credits": "MCreator, Ojng Studios, Ganny Potato Robinson",
+    "logoFile": "",
+    "mcversion": "1.12.2",
+    "url": "https://github.com/Ojng-Studios/GannyPotatosMagicBook",
+    "updateUrl": "",
+    "authorList": [
+      "BunnimimiTotem"
+    ],
+    "dependencies": [],
+    "dependants": [],
+    "requiredMods": [],
+    "useDependencyInformation": "true"
+  }
+]

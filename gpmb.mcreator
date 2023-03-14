@@ -1,0 +1,68 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Potatomagiccircle",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "potatomagiccircle"
+    },
+    {
+      "name": "Gpmbtab",
+      "type": "tab",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gpmbtab"
+    },
+    {
+      "name": "Potatomagiccircle1",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "potatomagiccircle_1"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "itemGroup.tabgpmbtab": "Ganny Potato\u0027s Magic Book",
+      "item.potatomagiccircle.name": "Potato Magic Circle"
+    },
+    "zh_cn": {
+      "itemGroup.tabgpmbtab": "盖尼土豆的魔法书",
+      "item.potatomagiccircle.name": "土豆法阵"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "gpmb",
+    "modName": "GannyPotatosMagicBook",
+    "version": "0.0.1",
+    "description": "A Magic Mod That Can Bring You Countless Potatoes!!!",
+    "author": "BunnimimiTotem",
+    "websiteURL": "https://github.com/Ojng-Studios/GannyPotatosMagicBook",
+    "license": "DPTDPL",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.12.2",
+    "credits": "MCreator, Ojng Studios, Ganny Potato Robinson",
+    "modElementsPackage": "io.github.busituteng.gpmb",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

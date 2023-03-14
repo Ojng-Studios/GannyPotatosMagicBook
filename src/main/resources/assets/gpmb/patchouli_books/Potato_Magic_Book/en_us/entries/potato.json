@@ -1,0 +1,11 @@
+{
+    "name": "Potato",
+    "icon": "minecraft:items/potato",
+    "category": "Potato_Magic_Book:Potato Category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "You Can Get Coutless Potatoes With Potato Magic Circle~"
+        }
+    ]
+}
